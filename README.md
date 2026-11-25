@@ -103,4 +103,4 @@ Pick a topic. Your click opens a pre-filled issue. Hit **Submit**, and a GitHub 
   <img alt="A snake eating my contribution graph, redrawn every day" src="https://raw.githubusercontent.com/suryansh04/suryansh04/output/snake-light.svg" width="100%">
 </picture>
 
-<sub>Figures drawn in the <a href="https://www.mdxcn.dev">mdxcn</a> style by <a href="scripts/figures.py">scripts/figures.py</a>. The vote chart and the snake update themselves through GitHub Actions.</sub>
+<p align="center"><sub>A maths topic that never clicked for you? <a href="https://math.lerno.dev/">Ask Lerno</a> and watch it explained.</sub></p>
