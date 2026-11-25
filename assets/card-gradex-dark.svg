@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="gradex: exams graded against a model answer, with feedback. fastapi · postgresql · bert · claude. side project.">
+<title>gradex: exams graded against a model answer, with feedback. fastapi · postgresql · bert · claude. side project.</title>
+<style>
+  text { font-family: ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; fill: #e6edf3; }
+  .m { fill: #8b949e; } .a { fill: #2fc5f0; } .a2 { fill: #f0b429; }
+  .ok { fill: #3fb950; } .bad { fill: #f85149; }
+  .fr { stroke: #484f58; stroke-width: 1; stroke-dasharray: 2 4; fill: none; }
+  .cn { fill: #484f58; }
+  .in { opacity: 0; animation: in .5s ease-out forwards; }
+  @keyframes in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } }
+.pop { opacity: 0; animation: pop 6s infinite; }
+@keyframes pop { 0%, 8% { opacity: 0; } 14%, 88% { opacity: 1; } 100% { opacity: 0; } }</style>
+<path class="fr" d="M158.87 12 H8 V202 H412 V12 H261.13"/>
+<text x="8" y="16.5" text-anchor="middle" font-size="13" class="cn" style="fill:#484f58">+</text>
+<text x="412" y="16.5" text-anchor="middle" font-size="13" class="cn" style="fill:#484f58">+</text>
+<text x="8" y="206.5" text-anchor="middle" font-size="13" class="cn" style="fill:#484f58">+</text>
+<text x="412" y="206.5" text-anchor="middle" font-size="13" class="cn" style="fill:#484f58">+</text>
+<text x="210.0" y="17" text-anchor="middle" font-size="13" class="a" letter-spacing=".5">[ GRADEX ]</text>
+<text x="30" y="52" font-size="14">exams graded against a model</text>
+<text x="30" y="72" font-size="14">answer, with feedback</text>
+<text x="30" y="154" font-size="12" class="m">fastapi · postgresql · bert · claude</text>
+<text x="30" y="180" font-size="12.5" class="a">● side project</text>
+<text x="390" y="180" font-size="12.5" class="m" text-anchor="end">open ↗</text>
+<g class="pop" style="animation-delay:0.5s"><text x="30" y="102" font-size="12" class="m">q1</text><text x="70" y="102" font-size="13" class="ok">✓</text><text x="94" y="102" font-size="12">8/10</text></g>
+<g class="pop" style="animation-delay:1.1s"><text x="30" y="119" font-size="12" class="m">q2</text><text x="70" y="119" font-size="13" class="ok">✓</text><text x="94" y="119" font-size="12">9/10</text></g>
+<g class="pop" style="animation-delay:1.7s"><text x="30" y="136" font-size="12" class="m">q3</text><text x="70" y="136" font-size="13" class="bad">✗</text><text x="94" y="136" font-size="12">3/10</text></g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="sunskip: routes ranked by minutes spent in direct sun. react · fastapi · postgis · aws. aws sustainability hack.">
+<title>sunskip: routes ranked by minutes spent in direct sun. react · fastapi · postgis · aws. aws sustainability hack.</title>
+<style>
+  text { font-family: ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; fill: #1f2328; }
+  .m { fill: #59636e; } .a { fill: #0a73b0; } .a2 { fill: #b7791f; }
+  .ok { fill: #1a7f37; } .bad { fill: #cf222e; }
+  .fr { stroke: #afb8c1; stroke-width: 1; stroke-dasharray: 2 4; fill: none; }
+  .cn { fill: #afb8c1; }
+  .in { opacity: 0; animation: in .5s ease-out forwards; }
+  @keyframes in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } }
+</style>
+<path class="fr" d="M154.957 12 H8 V202 H412 V12 H265.043"/>
+<text x="8" y="16.5" text-anchor="middle" font-size="13" class="cn" style="fill:#afb8c1">+</text>
+<text x="412" y="16.5" text-anchor="middle" font-size="13" class="cn" style="fill:#afb8c1">+</text>
+<text x="8" y="206.5" text-anchor="middle" font-size="13" class="cn" style="fill:#afb8c1">+</text>
+<text x="412" y="206.5" text-anchor="middle" font-size="13" class="cn" style="fill:#afb8c1">+</text>
+<text x="210.0" y="17" text-anchor="middle" font-size="13" class="a" letter-spacing=".5">[ SUNSKIP ]</text>
+<text x="30" y="52" font-size="14">routes ranked by minutes</text>
+<text x="30" y="72" font-size="14">spent in direct sun</text>
+<text x="30" y="154" font-size="12" class="m">react · fastapi · postgis · aws</text>
+<text x="30" y="180" font-size="12.5" class="a">● aws sustainability hack</text>
+<text x="390" y="180" font-size="12.5" class="m" text-anchor="end">open ↗</text>
+<path id="arc" d="M40.0 134 A170.0 36 0 0 1 380.0 134" fill="none" stroke="#d1d9e0" stroke-dasharray="2 4"/>
+<circle r="7" fill="#b7791f"><animateMotion dur="6s" repeatCount="indefinite" rotate="0"><mpath href="#arc"/></animateMotion></circle>
+<rect x="31.0" y="138" width="27.0" height="4" fill="#b7791f" opacity=".85"/>
+<rect x="61.0" y="138" width="27.0" height="4" fill="#1a7f37" opacity=".85"/>
+<rect x="91.0" y="138" width="27.0" height="4" fill="#1a7f37" opacity=".85"/>
+<rect x="121.0" y="138" width="27.0" height="4" fill="#b7791f" opacity=".85"/>
+<rect x="151.0" y="138" width="27.0" height="4" fill="#b7791f" opacity=".85"/>
+<rect x="181.0" y="138" width="27.0" height="4" fill="#1a7f37" opacity=".85"/>
+<rect x="211.0" y="138" width="27.0" height="4" fill="#1a7f37" opacity=".85"/>
+<rect x="241.0" y="138" width="27.0" height="4" fill="#b7791f" opacity=".85"/>
+<rect x="271.0" y="138" width="27.0" height="4" fill="#b7791f" opacity=".85"/>
+<rect x="301.0" y="138" width="27.0" height="4" fill="#1a7f37" opacity=".85"/>
+<rect x="331.0" y="138" width="27.0" height="4" fill="#1a7f37" opacity=".85"/>
+<rect x="361.0" y="138" width="27.0" height="4" fill="#b7791f" opacity=".85"/>
+</svg>
