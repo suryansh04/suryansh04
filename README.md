@@ -54,7 +54,7 @@ Ask a maths question and watch it turn into a short animated lesson. Three scene
 </picture>
 
 <details>
-<summary><b>Better (Jalan Technologies) · SDE intern · Jun to Sep 2026</b></summary>
+<summary><b>Better · SDE intern · Jun to Sep 2026</b></summary>
 <br>
 
 Worked on **Operate**, a self-hosted AI agent that finds the root cause of engineering incidents. 50+ merged PRs.
