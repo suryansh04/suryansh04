@@ -20,7 +20,7 @@ Ask a maths question and watch it turn into a short animated lesson. Three scene
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="1,000+ Lerno users. 1st at CodeClash 2.0 among 1,000+ teams. Won Smart India Hackathon 2025." src="assets/stats-light.svg" width="100%">
+  <img alt="50+ merged PRs at Better. 1st at CodeClash 2.0 among 1,000+ teams. Won Smart India Hackathon 2025." src="assets/stats-light.svg" width="100%">
 </picture>
 
 <details>

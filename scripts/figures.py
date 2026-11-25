@@ -108,7 +108,7 @@ def header(t):
 # ---------------------------------------------------------------- stat strip (GraphStat style)
 def stats(t):
     W, H = 860, 150
-    items = [("1,000+", "lerno users"), ("1st", "codeclash 2.0, 1,000+ teams"), ("won", "smart india hackathon 2025")]
+    items = [("50+", "merged prs at better"), ("1st", "codeclash 2.0, 1,000+ teams"), ("won", "smart india hackathon 2025")]
     body = [frame(W, H, "so far", t)]
     colw = (W - 80) / 3
     for i, (v, l) in enumerate(items):
@@ -119,7 +119,7 @@ def stats(t):
         body.append(f'<text x="{x}" y="110" font-size="13.5" class="m">{esc(l)}</text></g>')
         lw = len(v) * 36 * CW
         body.append(f'<rect x="{x}" y="88" height="2" width="0" fill="{t["accent"] if i==0 else t["faint"]}"><animate attributeName="width" from="0" to="{lw:.0f}" begin="{d+0.3}s" dur=".6s" fill="freeze"/></rect>')
-    return svg(W, H, "\n".join(body), "", t, "1,000+ Lerno users. 1st at CodeClash 2.0 among 1,000+ teams. Won Smart India Hackathon 2025.")
+    return svg(W, H, "\n".join(body), "", t, "50+ merged PRs at Better. 1st at CodeClash 2.0 among 1,000+ teams. Won Smart India Hackathon 2025.")
 
 
 # ---------------------------------------------------------------- project cards
@@ -193,7 +193,7 @@ def timeline(t):
         ("2025", "won smart india hackathon", "wavewatch, built the full stack solo", "done"),
         ("apr 2026", "backend intern @ billcut", "node.js / express backend for billgpt", "done"),
         ("jun 2026", "sde intern @ better", "integrations + auth for operate, an incident rca agent", "done"),
-        ("now", "building lerno", "1,000+ users and counting", "now"),
+        ("now", "building lerno", "ai maths lessons, live at math.lerno.dev", "now"),
         ("2027", "graduating", "open to sde roles", "next"),
     ]
     W = 860
