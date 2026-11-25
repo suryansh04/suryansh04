@@ -1,18 +1,36 @@
-# 💫 About Me:
-🧪 Currently Experimenting With Lerno.ai — Building an AI pipeline that transforms text prompts into animated learning videos using Manim.<br>🌱 I’m currently learning Machine Learning for real-world applications<br>
+### Hey, I'm Suryansh 👋
 
+I build full-stack AI products and ship them to real users.
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suryanshhhhh_p) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.png">
+  <img alt="whoami: suryansh, cs at manipal university jaipur, batch 2027" src="assets/whoami-light.png" width="100%">
+</picture>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suryansh04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=suryansh04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suryansh04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.png">
+  <img alt="68,000+ teams at sih 2025 (won), 1,000+ lerno.ai users, 2 internships" src="assets/stats-light.png" width="100%">
+</picture>
 
----
-[![](https://komarev.com/ghpvc/?username=suryansh04&icon=0&color=0)](https://visitcount.itsvg.in)
+[Lerno.ai](https://math.lerno.dev/) is my main project. Try it, break it, tell me what broke. [Demo](https://www.loom.com/share/43a95f1915294d149420c87aafa09799)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.png">
+  <img alt="timeline: sih 2025 win, billcut apr 2026, better jun 2026, lerno.ai now, graduating 2027" src="assets/journey-light.png" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.png">
+  <img alt="projects: lerno.ai, wavewatch, internsetu, sunskip, gradex" src="assets/projects-light.png" width="100%">
+</picture>
+
+**Repos:** [Lerno.ai](https://github.com/suryansh04/Lerno.ai) · [WaveWatch](https://github.com/suryansh04/WaveWatch) · [InternSetu](https://github.com/suryansh04/InternSetu) · [SunSkip](https://github.com/suryansh04/sunskip) · [GradeX](https://github.com/suryansh04/GradeX)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
+  <img alt="stack: typescript, python, react, fastapi, postgresql, aws, claude api" src="assets/stack-light.png" width="100%">
+</picture>
+
+**Find me:** [X](https://x.com/suryanshhhhh_p)
+
+<sub>Figures are <a href="https://www.mdxcn.dev">mdxcn</a> components.</sub>
