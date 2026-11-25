@@ -108,7 +108,7 @@ def header(t):
 # ---------------------------------------------------------------- stat strip (GraphStat style)
 def stats(t):
     W, H = 860, 150
-    items = [("68,000+", "teams at sih 2025. we won"), ("1st", "codeclash 2.0, 1,000+ teams"), ("2nd", "iic 2.0 national hackathon")]
+    items = [("10+", "hackathon wins"), ("68,000+", "teams at sih 2025. we won"), ("1st", "codeclash 2.0, 1,000+ teams")]
     body = [frame(W, H, "so far", t)]
     colw = (W - 80) / 3
     for i, (v, l) in enumerate(items):
@@ -119,7 +119,7 @@ def stats(t):
         body.append(f'<text x="{x}" y="110" font-size="13.5" class="m">{esc(l)}</text></g>')
         lw = len(v) * 36 * CW
         body.append(f'<rect x="{x}" y="88" height="2" width="0" fill="{t["accent"] if i==0 else t["faint"]}"><animate attributeName="width" from="0" to="{lw:.0f}" begin="{d+0.3}s" dur=".6s" fill="freeze"/></rect>')
-    return svg(W, H, "\n".join(body), "", t, "Won SIH 2025 among 68,000+ teams. 1st at CodeClash 2.0 among 1,000+ teams. Runner-up at the IIC 2.0 national hackathon.")
+    return svg(W, H, "\n".join(body), "", t, "10+ hackathon wins. Won SIH 2025 among 68,000+ teams. 1st at CodeClash 2.0 among 1,000+ teams.")
 
 
 # ---------------------------------------------------------------- project cards
@@ -265,7 +265,7 @@ def votes_fig(t, data):
     body.append(f'<text x="44" y="{H-30}" font-size="12.5" class="m">{total} vote{"s" if total != 1 else ""} · one per github account · updates itself</text>')
     return svg(W, H, "\n".join(body), "", t, "Votes for the next Lerno lesson: " + ", ".join(f"{k} {v}" for k, v in items))
 
-FIGS = {"header": header, "highlights": stats, "timeline": timeline, "stack": stack}
+FIGS = {"header": header, "so-far": stats, "timeline": timeline, "stack": stack}
 for name, fn in FIGS.items():
     for th, t in THEMES.items():
         open(f"{OUT}/{name}-{th}.svg", "w").write(fn(t))
