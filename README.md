@@ -19,8 +19,8 @@ Ask a maths question and watch it turn into a short animated lesson. Three scene
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="Won SIH 2025 among 68,000+ teams. 1st at CodeClash 2.0 among 1,000+ teams. Runner-up at the IIC 2.0 national hackathon." src="assets/stats-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg">
+  <img alt="Won SIH 2025 among 68,000+ teams. 1st at CodeClash 2.0 among 1,000+ teams. Runner-up at the IIC 2.0 national hackathon." src="assets/highlights-light.svg" width="100%">
 </picture>
 
 <details>

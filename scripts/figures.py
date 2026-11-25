@@ -265,7 +265,7 @@ def votes_fig(t, data):
     body.append(f'<text x="44" y="{H-30}" font-size="12.5" class="m">{total} vote{"s" if total != 1 else ""} · one per github account · updates itself</text>')
     return svg(W, H, "\n".join(body), "", t, "Votes for the next Lerno lesson: " + ", ".join(f"{k} {v}" for k, v in items))
 
-FIGS = {"header": header, "stats": stats, "timeline": timeline, "stack": stack}
+FIGS = {"header": header, "highlights": stats, "timeline": timeline, "stack": stack}
 for name, fn in FIGS.items():
     for th, t in THEMES.items():
         open(f"{OUT}/{name}-{th}.svg", "w").write(fn(t))
